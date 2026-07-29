@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 126 */
-/* Analyzes code review activity and creates a development summary */
+/* Analyzes cod review activity and creates a development summary */
 
 function dailyLog126() {
     const reviews = [
